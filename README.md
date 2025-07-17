@@ -2,12 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-A fun game based on the [Fingerpose gesture detection library](https://github.com/andypotato/fingerpose). Check out my [in-depth tutorial how to create the gesture recognizer](https://medium.com/@andreas.schallwig/rock-paper-scissors-with-hand-gesture-recognition-841297a7d915)
-
-[Play the online demo here](https://andypotato.github.io/rock-paper-scissors/demo/)
-
-![Play a round of Rock, Paper, Scissors](https://raw.githubusercontent.com/andypotato/rock-paper-scissors/master/demo/rock-paper-scissors.gif)
-
 ## Installation
 
 - Clone this repo
@@ -20,7 +14,7 @@ A fun game based on the [Fingerpose gesture detection library](https://github.co
 
 ## Author
 
-- [Andreas Schallwig](https://medium.com/@andreas.schallwig)
+- Pradeep
 
 ## License
 
